@@ -1,0 +1,2 @@
+#!/bin/bash
+echo -e "ls -1t \ head -10 \n"
