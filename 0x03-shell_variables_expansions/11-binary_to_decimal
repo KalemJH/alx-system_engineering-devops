@@ -1,0 +1,2 @@
+#!/bin/bash
+BINARY="base 2" echo -e "$((base 2xbase 10)) \n"

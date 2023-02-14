@@ -9,3 +9,4 @@
 8-true_knowledge writes a sum between environment variables and a given value
 9-divide_and_rule divides the amount of variables.
 10-love_exponent_breath displays the result of breath being multiplied to the power of love.
+11-binary_to_decimal converts two different base numbers from binary to decimal.
