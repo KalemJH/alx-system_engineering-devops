@@ -6,3 +6,4 @@
 5-local_variables lists the variables and functions
 6-create_local_variable.
 7-create_global_variable, creates a global variable.
+8-true_knowledge writes a sum between environment variables and a given value
